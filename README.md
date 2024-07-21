@@ -143,7 +143,7 @@ I used it heavily when building the mobile wallet, multiple wallets and explorer
   }
 ```
 
-### Bid Order Placement (Buy order)
+## Bid Order Placement (Buy order)
 
 ```json
   "attachment": {
@@ -154,7 +154,7 @@ I used it heavily when building the mobile wallet, multiple wallets and explorer
   }
 ```
 
-### Token Mint
+## Token Mint
 
 ```json
   "attachment": {
